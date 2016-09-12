@@ -1,4 +1,4 @@
-# folder-semver
+# folder-semver [![Build Status](https://travis-ci.org/svnv/folder-semver.svg?branch=master)](https://travis-ci.org/svnv/folder-semver)
 
 Compare two folders of assets and get a semver update type based on the differences in the files.
 
