@@ -1,5 +1,7 @@
 # folder-semver [![Build Status](https://travis-ci.org/svnv/folder-semver.svg?branch=master)](https://travis-ci.org/svnv/folder-semver)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/svnv/folder-semver.svg)](https://greenkeeper.io/)
+
 Compare two folders of assets and get a semver update type based on the differences in the files.
 
 Use this module to keep track of changes in assets that are refered to  by file name. 
