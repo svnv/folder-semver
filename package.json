@@ -13,6 +13,6 @@
     "dir-compare": "^1.1.0"
   },
   "devDependencies": {
-    "mocha": "^3.0.2"
+    "mocha": "^6.2.2"
   }
 }
